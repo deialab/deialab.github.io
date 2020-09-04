@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab</title>
+    <link>https://deialab.github.io/</link>
+    <description>Recent content on Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deialab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oi, Setembro</title>
+      <link>https://deialab.github.io/post/placeholder-text/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/post/placeholder-text/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://deialab.github.io/images/playlist2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Portfólio e busca de sentido</title>
+      <link>https://deialab.github.io/post/portfolio/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/post/portfolio/</guid>
+      <description>&lt;p&gt;Esse é um momento.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://deialab.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://deialab.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/about/</guid>
+      <description>Redatora publicitária e jornalista trabalhando diretamente do escritório em casa. Desta cadeira, já criei para grandes 🌈 e pequenas companhias.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lab</title>
+    <link>https://deialab.github.io/tags/</link>
+    <description>Recent content in Tags on Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://deialab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>música</title>
+      <link>https://deialab.github.io/tags/m%C3%BAsica/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/tags/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>playlists</title>
+      <link>https://deialab.github.io/tags/playlists/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/tags/playlists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suave</title>
+      <link>https://deialab.github.io/tags/suave/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/tags/suave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://deialab.github.io/tags/portfolio/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profissional</title>
+      <link>https://deialab.github.io/tags/profissional/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://deialab.github.io/tags/profissional/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
