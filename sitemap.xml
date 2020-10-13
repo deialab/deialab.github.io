@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://deialab.github.io/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://deialab.github.io/post/pets/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://deialab.github.io/tags/fotografia/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deialab.github.io/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -75,10 +75,6 @@
   <url>
     <loc>https://deialab.github.io/tags/profissional/</loc>
     <lastmod>2019-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://deialab.github.io/posts/</loc>
   </url>
   
   <url>
